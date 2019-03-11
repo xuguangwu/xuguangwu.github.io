@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Clear Blog",
+  "short_name": "Clear Blog",
+  "description": "Everything will be ok",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
