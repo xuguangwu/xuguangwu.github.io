@@ -1,3 +1,5 @@
+# 保留原作者的README，喜欢的话去fork一下~
+
 # Hux Blog
 
 ### [View Live Hux Blog &rarr;](https://huangxuan.me)

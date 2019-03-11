@@ -1,3 +1,5 @@
+# 保留原作者的README，喜欢的话去fork一下~
+
 # Hux blog 模板
 
 ### [我的博客在这里 &rarr;](http://huxpro.github.io)
