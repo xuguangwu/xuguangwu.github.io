@@ -113,3 +113,14 @@ Notices:
 然后通过域名+端口的方式来区分访问的服务
 3. 如果宿主机无法解析域名，可在/etc/hosts中配置域名与ip，ip设为127.0.0.1
 4. 我使用的nginx版本为1.15.5,出现问题可以通过nginx的日志来排查问题
+
+
+
+docker run -d \
+    -p 31080:80 \
+    -v $(pwd)/nginx/conf.d:/etc/nginx/conf.d:ro \
+    -v $(pwd)/nginx/nginx.conf:/etc/nginx/nginx.conf:ro \
+    -v $(pwd)/nginx/logs/nginx:/var/log/nginx \
+    -v $(pwd)/nginx/html:/usr/share/nginx/html \
+    --name nginx \
+    nginx
