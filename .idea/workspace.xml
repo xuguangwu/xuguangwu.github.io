@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="" />
+    <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postImages/sort/BubbleSort.gif" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -64,8 +67,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="303" />
-    <option name="y" value="33" />
+    <option name="x" value="80" />
+    <option name="y" value="30" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
@@ -86,6 +89,17 @@
               <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="postImages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="postImages" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -101,6 +115,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/postImages/sort" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_includes/about" />
       <recent name="$PROJECT_DIR$/_posts" />
@@ -129,7 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1552293041357</updated>
       <workItem from="1552293042953" duration="1489000" />
-      <workItem from="1552558438497" duration="7596000" />
+      <workItem from="1552558438497" duration="7914000" />
     </task>
     <task id="LOCAL-00001" summary="fix bug">
       <created>1552659823269</created>
@@ -142,14 +159,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9085000" />
+    <option name="totallyTimeSpent" value="9403000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="80" y="30" width="1440" height="823" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Alibaba Cloud Explorer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25178826" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25178826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Grunt " order="3" side_tool="true" />
@@ -166,7 +183,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.45180723" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5129959" />
       <window_info anchor="right" id="Maven" weight="0.3297568" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
@@ -183,16 +200,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix bug" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-18-transient.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-13-分表.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -513,6 +520,9 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postImages/sort/BubbleSort.gif">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
