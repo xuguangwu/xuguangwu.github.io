@@ -96,15 +96,14 @@ CMD ["redis-server"]
 
 2. docker run
 ````
-docker run -d --name redis -p 6379:6379 -v /Users/clear/data/redis:/data redis:5.0-rc --requirepass xuguangwu
+docker run -d --name redis -p 6379:6379 -v /Users/xuguangwu/server/redis/data:/data redis:5.0-rc --requirepass xuguangwu
 
 docker run -d --name redis -p 53791:6379 -v /mnt/data/redis:/data redis:5.0-rc --requirepass Xl-be&xgw!s
 docker run -d --name redis -p 53792:6379 -v /mnt/test/data/redis:/data redis:5.0-rc --requirepass xuguangwu
 ````
 
-
-
-
+3. 批量删除key
+redis-cli -a Xl23L9bgPw keys "SUPPLIER_RANK_*" | xargs -i redis-cli -a Xl23L9bgPw del {}
 
 q:
 

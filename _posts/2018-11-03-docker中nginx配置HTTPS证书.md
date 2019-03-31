@@ -80,7 +80,8 @@ server {
 /mnt/ca/1_20youk.xyz_bundle.crt,/mnt/ca/2_20youk.xyz.key
 ````
 docker run -d \
-    -p 30443:443 \
+    -p 80:80 \
+    -p 443:443 \
     -v $(pwd)/nginx/conf.d:/etc/nginx/conf.d:ro \
     -v $(pwd)/nginx/nginx.conf:/etc/nginx/nginx.conf:ro \
     -v $(pwd)/nginx/logs/nginx:/var/log/nginx \
@@ -89,6 +90,8 @@ docker run -d \
     --name nginx \
     nginx
 ````
+
+
 
 开放主机的30443端口，在云平台的安全组策略中，放开30443端口
 ````
@@ -122,5 +125,14 @@ docker run -d \
     -v $(pwd)/nginx/nginx.conf:/etc/nginx/nginx.conf:ro \
     -v $(pwd)/nginx/logs/nginx:/var/log/nginx \
     -v $(pwd)/nginx/html:/usr/share/nginx/html \
+    --name nginx \
+    nginx
+    
+docker run -d \
+    -p 80:80 \
+    -v $(pwd)/nginx/conf.d:/etc/nginx/conf.d:ro \
+    -v $(pwd)/nginx/nginx.conf:/etc/nginx/nginx.conf:ro \
+    -v $(pwd)/nginx/logs/nginx:/var/log/nginx \
+    -v $(pwd)/nginx/html:/tmp/html \
     --name nginx \
     nginx
