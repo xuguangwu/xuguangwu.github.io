@@ -1,10 +1,10 @@
 ---
-title: @Configuration的使用
+title: Configuration的使用
 categories:
  - Spring
 tags: 
-    - java
-    - Spring
+ - java
+ - Spring
 ---
 
 在springboot中我们经常使用@Configuration来配置项目中的配置类的bean。
