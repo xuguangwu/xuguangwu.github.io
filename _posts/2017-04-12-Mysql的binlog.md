@@ -5,18 +5,30 @@ categories:
 tags: mysql
 ---
 
-MySQL Server 有四种类型的日志——Error Log、General Query Log、Binary Log 和 Slow Query Log。
-第一个是错误日志，记录 mysqld 的一些错误。
-第二个是一般查询日志，记录 mysqld 正在做的事情，
+MySQL Server 有四种类型的日志
+* Error Log
+
+错误日志，记录 mysqld 的一些错误。
+
+* General Query Log
+
+一般查询日志，记录 mysqld 正在做的事情，
 比如客户端的连接和断开、来自客户端每条 Sql Statement 记录信息；
 如果你想准确知道客户端到底传了什么给服务端，
 这个日志就非常管用了，不过它非常影响性能。
-第四个是慢查询日志，记录一些查询比较慢的 SQL 语句——这种日志非常常用，主要是给开发者调优用的。
-剩下的第三种就是 Binlog 了，包含了一些事件，这些**事件描述了数据库的改动，如建表、数据改动等**，
+
+* Slow Query Log
+
+慢查询日志，记录一些查询比较慢的 SQL 语句——这种日志非常常用，主要是给开发者调优用的。
+
+* Binary Log
+
+包含了一些事件，这些**事件描述了数据库的改动，如建表、数据改动等**，
 也包括一些潜在改动，比如DELETE FROM users WHERE user_id = 1，
 然而一条数据都没被删掉的这种情况,
 但是不会记录SELECT和没有实际更新的UPDATE语句。
 除非使用 Row-based logging，否则会包含所有改动数据的 SQL Statement。
+
 **那么 Binlog 就有了两个重要的用途——复制和恢复。比如主从表的复制，和备份恢复什么的。**
 通常情况 MySQL 是默认关闭 Binlog 的，所以你得配置一下以启用它。
 启用的过程就是修改配置文件 my.cnf 了。
