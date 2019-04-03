@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码0]自定义标签解析.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo中默认动态代理实现.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-01-volatile总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-01-volatile总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-08-log配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-08-log配置.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -72,8 +68,32 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码0]自定义标签解析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="374">
-                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo中默认动态代理实现.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="238">
+                <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -81,11 +101,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-08-log配置.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="858">
-                <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
+              <first_editor relative-caret-position="1156">
+                <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
               </first_editor>
               <second_editor />
             </state>
@@ -122,18 +142,6 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="170">
                 <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-java中log总结.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="324">
-                <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -178,7 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2018-12-03-jmeter性能测试.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-30-根据环境注入bean.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-20-redis5.0新数据结构Stream学习.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-27-postgres管理.md" />
@@ -220,15 +227,16 @@
         <option value="$PROJECT_DIR$/_posts/2017-01-03-@Configuration的使用.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-03-@Configuration的使用.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-09-mybatis缓存.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-12-08-log配置.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-01-volatile总结.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-02-dubbo源码(1).md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-02-dubbo源码(1).md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-03-dubbo源码(2).md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码]自定义标签解析.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo中默认动态代理实现.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码0]自定义标签解析.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo中默认动态代理实现.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-08-log配置.md" />
       </list>
     </option>
   </component>
@@ -329,7 +337,7 @@
       <workItem from="1553776883244" duration="1119000" />
       <workItem from="1553855786107" duration="14380000" />
       <workItem from="1554016042096" duration="2952000" />
-      <workItem from="1554170503355" duration="16379000" />
+      <workItem from="1554170503355" duration="16683000" />
     </task>
     <task id="LOCAL-00001" summary="fix bug">
       <created>1552659823269</created>
@@ -457,11 +465,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554192341261</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update dubbo">
+      <created>1554264399909</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1554264399909</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update dubbo">
+      <created>1554265009155</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554265009155</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67840000" />
+    <option name="totallyTimeSpent" value="68144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-96" width="1920" height="1080" extended-state="0" />
@@ -537,7 +559,8 @@
     <MESSAGE value="update image" />
     <MESSAGE value="configuration" />
     <MESSAGE value="update log" />
-    <option name="LAST_COMMIT_MESSAGE" value="update log" />
+    <MESSAGE value="update dubbo" />
+    <option name="LAST_COMMIT_MESSAGE" value="update dubbo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-11-(并发)等待通知机制.md">
@@ -719,16 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-08-log配置.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="535">
-            <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-14-ThreadLocal学习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -777,11 +790,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码0]自定义标签解析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
@@ -790,18 +813,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo中默认动态代理实现.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="612">
-            <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-08-log配置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="858">
-            <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
+          <first_editor relative-caret-position="1156">
+            <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
           </first_editor>
           <second_editor />
         </state>
