@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-12-09-mybatis缓存.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码0]自定义标签解析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo中默认动态代理实现.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-20-log配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-08-log配置.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-08-12-JDK动态代理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-12-JDK动态代理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-12-NIO学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-12-NIO学习.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-03-jmeter接口和压力测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-03-jmeter接口和压力测试.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-01-volatile总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-01-volatile总结.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,51 +35,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-01-02-Spring中易混淆概念(一).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="375">
-                <caret line="59" selection-start-line="59" selection-end-line="59" selection-end-column="37" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-03-08-CentOS7安装mariaDB.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-03-@Configuration的使用.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="331">
+              <first_editor relative-caret-position="1904">
                 <caret line="112" column="40" lean-forward="true" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
-                <folding>
-                  <element signature="e#412#413#0" expanded="true" />
-                  <element signature="e#443#444#0" expanded="true" />
-                  <element signature="e#494#495#0" expanded="true" />
-                  <element signature="e#536#537#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-Spring源码及应用解析(1).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="272">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -88,16 +48,6 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-JDK动态代理.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1709" />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-04-27-zookeeper.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -118,12 +68,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-12-08-log配置.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码0]自定义标签解析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="221">
-                <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <first_editor relative-caret-position="374">
+                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="858">
+                <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-01-volatile总结.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="85">
+                <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -192,13 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.zh.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_posts/2017-04-10-事务.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-06-25-you-are-slaves.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-12-03-jmeter性能测试.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-30-根据环境注入bean.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-20-redis5.0新数据结构Stream学习.md" />
@@ -212,7 +191,6 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-01-Spring源码及应用解析(1).md" />
         <option value="$PROJECT_DIR$/_posts/2018-08-12-JDK动态代理.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-08-docker安装mysql.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md" />
         <option value="$PROJECT_DIR$/src/main/java/MapTest.java" />
         <option value="$PROJECT_DIR$/_posts/2018-11-03-docker中nginx配置HTTPS证书.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-08-docker安装redis.md" />
@@ -243,6 +221,14 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-03-@Configuration的使用.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-09-mybatis缓存.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-08-log配置.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-01-volatile总结.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-02-dubbo源码(1).md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-02-dubbo源码(1).md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-03-dubbo源码(2).md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码]自定义标签解析.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo中默认动态代理实现.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md" />
       </list>
     </option>
   </component>
@@ -252,7 +238,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1440" />
     <option name="y" value="-96" />
     <option name="width" value="1920" />
@@ -343,7 +329,7 @@
       <workItem from="1553776883244" duration="1119000" />
       <workItem from="1553855786107" duration="14380000" />
       <workItem from="1554016042096" duration="2952000" />
-      <workItem from="1554170503355" duration="9487000" />
+      <workItem from="1554170503355" duration="16379000" />
     </task>
     <task id="LOCAL-00001" summary="fix bug">
       <created>1552659823269</created>
@@ -464,17 +450,24 @@
       <option name="project" value="LOCAL" />
       <updated>1554182131110</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="update log">
+      <created>1554192341261</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554192341261</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60948000" />
+    <option name="totallyTimeSpent" value="67840000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-96" width="1920" height="1080" extended-state="6" />
+    <frame x="1440" y="-96" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20074548" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19488817" />
       <window_info id="npm" order="1" side_tool="true" />
       <window_info id="Grunt " order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -543,43 +536,10 @@
     <MESSAGE value="update" />
     <MESSAGE value="update image" />
     <MESSAGE value="configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="configuration" />
+    <MESSAGE value="update log" />
+    <option name="LAST_COMMIT_MESSAGE" value="update log" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-JVM垃圾收集器.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-JVM内存分配与回收策略.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="442">
-            <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-JVM的GC日志.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-10-nio中Buffer相关.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-11-(并发)等待通知机制.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -690,16 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-01-volatile总结.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="221">
-            <caret line="23" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/in-post/algorithms/B+Tree.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -731,22 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-03-@Configuration的使用.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="331">
-            <caret line="112" column="40" lean-forward="true" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
-            <folding>
-              <element signature="e#412#413#0" expanded="true" />
-              <element signature="e#443#444#0" expanded="true" />
-              <element signature="e#494#495#0" expanded="true" />
-              <element signature="e#536#537#0" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-Spring源码及应用解析(1).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -757,28 +691,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-JDK动态代理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1709" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-27-zookeeper.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-14-ThreadLocal学习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -806,8 +722,86 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-08-log配置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="221">
-            <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <first_editor relative-caret-position="535">
+            <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-14-ThreadLocal学习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-JDK动态代理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-03-@Configuration的使用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1904">
+            <caret line="112" column="40" lean-forward="true" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-01-volatile总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码0]自定义标签解析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo中默认动态代理实现.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="612">
+            <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="858">
+            <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
           </first_editor>
           <second_editor />
         </state>
