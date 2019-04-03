@@ -1,5 +1,5 @@
 ---
-title: dubbo源码(2)
+title: dubbo默认动态代理实现
 categories:
  - java
 tags: 
