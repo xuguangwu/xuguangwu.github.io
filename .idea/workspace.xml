@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-01-09-redis实现分布式锁.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-09-redis实现分布式锁.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-09-redis实现分布式锁.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-05-历史搜索记录保存查询实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-05-历史搜索记录保存查询实现.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="314">
+              <first_editor relative-caret-position="2788">
                 <caret line="164" column="27" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
               </first_editor>
               <second_editor />
@@ -58,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-08-分布式系统事务一致性解决方案.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1141" />
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -68,8 +69,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-09-redis实现分布式锁.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="841">
-                <caret line="59" column="60" selection-start-line="59" selection-start-column="60" selection-end-line="59" selection-end-column="60" />
+              <first_editor relative-caret-position="584">
+                <caret line="41" selection-start-line="41" selection-end-line="41" />
                 <folding>
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
@@ -178,7 +179,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="1440" />
     <option name="y" value="-96" />
     <option name="width" value="1920" />
@@ -193,6 +194,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,7 +211,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,7 +273,8 @@
       <workItem from="1554170503355" duration="17023000" />
       <workItem from="1554283448653" duration="2379000" />
       <workItem from="1554866952805" duration="638000" />
-      <workItem from="1554955732762" duration="2735000" />
+      <workItem from="1554955732762" duration="3276000" />
+      <workItem from="1554981439036" duration="67000" />
     </task>
     <task id="LOCAL-00001" summary="fix bug">
       <created>1552659823269</created>
@@ -428,17 +430,24 @@
       <option name="project" value="LOCAL" />
       <updated>1554867435514</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="redis lock">
+      <created>1554961137434</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1554961137434</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74236000" />
+    <option name="totallyTimeSpent" value="74844000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-96" width="1920" height="1080" extended-state="0" />
+    <frame x="1440" y="-96" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20234291" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20447284" />
       <window_info id="npm" order="1" side_tool="true" />
       <window_info id="Grunt " order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -510,7 +519,8 @@
     <MESSAGE value="update log" />
     <MESSAGE value="update dubbo" />
     <MESSAGE value="add log" />
-    <option name="LAST_COMMIT_MESSAGE" value="add log" />
+    <MESSAGE value="redis lock" />
+    <option name="LAST_COMMIT_MESSAGE" value="redis lock" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/post-bg-apple-event-2015.jpg">
@@ -769,16 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-05-历史搜索记录保存查询实现.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="467">
-            <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-java中log总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -812,7 +812,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码1]服务暴露.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="314">
+          <first_editor relative-caret-position="2788">
             <caret line="164" column="27" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
           </first_editor>
           <second_editor />
@@ -822,7 +822,17 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-08-分布式系统事务一致性解决方案.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1141" />
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-05-历史搜索记录保存查询实现.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="467">
+            <caret line="38" column="27" lean-forward="true" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -830,8 +840,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-09-redis实现分布式锁.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="841">
-            <caret line="59" column="60" selection-start-line="59" selection-start-column="60" selection-end-line="59" selection-end-column="60" />
+          <first_editor relative-caret-position="584">
+            <caret line="41" selection-start-line="41" selection-end-line="41" />
             <folding>
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
