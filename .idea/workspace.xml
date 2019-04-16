@@ -3,15 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-12-mysql角色用户相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-12-mysql角色用户相关.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-13-postgres问题排查.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-13-postgres问题排查.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-16-nginx-lua-搭建过程.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-16-nginx-lua-搭建过程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-10-lua学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-10-lua学习笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-11-nginx-lua-搭建过程.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-16-nginx-lua-源码安装.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-11-xpath语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-11-xpath语法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-08-10-mac安装配置pyenv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-10-mac安装配置pyenv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-08-17-pycurl安装问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-17-pycurl安装问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-08-19-git常用命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-19-git常用命令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about/en.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about/zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/zh.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,9 +34,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka学习笔记(1).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="926">
-                <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="416">
+                <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,52 +44,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-12-分库分表(1).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-07-11-docker搭建mongo服务.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-07-11-xpath语法.md">
+        <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <first_editor>
+                <caret column="24" selection-end-line="1" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-07-12-mongo数据导入导出.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/about/en.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-08-12-docker搭建SSDB.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="17">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -136,12 +119,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-08-19-git常用命令.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="85">
                 <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码0]自定义标签解析.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="238">
+                <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               </first_editor>
               <second_editor />
             </state>
@@ -178,6 +173,7 @@
       <find>webp</find>
       <find>java,SP</find>
       <find>invokeBeanFactoryPostProcessors</find>
+      <find>相信</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -186,8 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/MapTest.java" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-03-docker中nginx配置HTTPS证书.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-08-docker安装redis.md" />
         <option value="$PROJECT_DIR$/_posts/2017-05-20-JVM线程私有内存区域.md" />
         <option value="$PROJECT_DIR$/_posts/2017-05-21-JVM线程共享内存区域.md" />
@@ -237,6 +231,8 @@
         <option value="$PROJECT_DIR$/_posts/2018-08-17-pycurl安装问题.md" />
         <option value="$PROJECT_DIR$/_posts/2018-08-10-mac安装配置pyenv.md" />
         <option value="$PROJECT_DIR$/_posts/2018-08-19-git常用命令.md" />
+        <option value="$PROJECT_DIR$/_includes/about/zh.md" />
+        <option value="$PROJECT_DIR$/_includes/about/en.md" />
       </list>
     </option>
   </component>
@@ -260,8 +256,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,12 +266,25 @@
             <path>
               <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -342,7 +349,11 @@
       <workItem from="1554866952805" duration="638000" />
       <workItem from="1554955732762" duration="3276000" />
       <workItem from="1554981439036" duration="5390000" />
-      <workItem from="1555079384234" duration="697000" />
+      <workItem from="1555079384234" duration="2102000" />
+      <workItem from="1555129906024" duration="1401000" />
+      <workItem from="1555151676551" duration="41000" />
+      <workItem from="1555151784662" duration="2100000" />
+      <workItem from="1555388309637" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="fix bug">
       <created>1552659823269</created>
@@ -519,17 +530,24 @@
       <option name="project" value="LOCAL" />
       <updated>1555058547628</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update">
+      <created>1555081785355</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1555081785355</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80864000" />
+    <option name="totallyTimeSpent" value="85983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-96" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20660277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18317358" />
       <window_info id="npm" order="1" side_tool="true" />
       <window_info id="Grunt " order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -595,7 +613,6 @@
     <MESSAGE value="fix bug" />
     <MESSAGE value="add mysql，为了方便查看，将相关的记录日期调整到了一起，后续会用文件夹隔离" />
     <MESSAGE value="补全jdk动态代理原理" />
-    <MESSAGE value="update" />
     <MESSAGE value="update image" />
     <MESSAGE value="configuration" />
     <MESSAGE value="update log" />
@@ -604,21 +621,10 @@
     <MESSAGE value="redis lock" />
     <MESSAGE value="update post" />
     <MESSAGE value="update zk" />
-    <option name="LAST_COMMIT_MESSAGE" value="update zk" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-kuaidi.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-os-metro.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-nextgen-web-pwa.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/blog-keynote.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -696,16 +702,6 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码0]自定义标签解析.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -829,16 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka学习笔记(2).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="332">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-02-12-NIO学习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -937,16 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka学习笔记(1).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="926">
-            <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-12-分库分表(1).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -989,6 +965,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka学习笔记(2).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="29" selection-start-line="29" selection-end-line="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-08-12-maven清理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1022,6 +1008,60 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="85">
             <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-02-[dubbo源码0]自定义标签解析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka学习笔记(1).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="416">
+            <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="24" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about/en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
         </state>

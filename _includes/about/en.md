@@ -1,2 +1,1 @@
-> 我也不知道说些什么，来一句恩比德大帝的
-> "相信过程"
+> Don't do black box-oriented development in the next few years.
