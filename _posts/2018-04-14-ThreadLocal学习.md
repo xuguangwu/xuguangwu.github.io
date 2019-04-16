@@ -6,7 +6,7 @@ tags:
  - Java
 ---
 
-ThreadLocal简单的说就是线程本地变量，多线程环境下安全。
+ThreadLocal简单的说就是将线程与当前线程绑定，多线程环境下安全。
 比如说多数据源，一个datasource的变量，应用根据datasource中配置的是user还是product来获取数据库连接。
 那么就可以用ThreadLocal来存储。实现如下：
 ```
@@ -47,6 +47,9 @@ ThreadLocal简单的说就是线程本地变量，多线程环境下安全。
 		}
 	}
 ```
+
+//TODO 替换示例
+//TODO ThreadLocal引发的内存溢出
 
 
 
