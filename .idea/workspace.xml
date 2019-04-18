@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2017-05-26-JVM的参数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-05-26-类双亲加载机制.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-05-20-kafka(3)常见问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/in-post/io/redis-single-thread-model.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/in-post/io/tomcat-nio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-12-12-分库分表(1)策略以及中间件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-12-12-分库分表(2)数据迁移以及扩容.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-08-10-redis的线程模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-08-10-redis的线程模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-08-10-tomcat的线程模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-08-10-tomcat的线程模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-20-kafka学习笔记(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-20-kafka(1)基本操作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-20-kafka学习笔记(2).md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-20-kafka(2)消费者分区策略.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-05-26-JVM的参数.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-05-26-JVM的参数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-12-分库分表(1).md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,11 +34,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-08-10-tomcat的线程模型.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka(1)基本操作.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="408">
-                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="272">
+                <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,23 +46,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-类双亲加载机制.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-分库分表(1)策略以及中间件.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="59">
-                <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-08-10-redis的线程模型.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="459">
-                <caret line="27" selection-start-line="27" selection-end-line="29" />
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -75,11 +58,81 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-分库分表(2)数据迁移以及扩容.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="527">
+                <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-JVM的参数.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-JVM垃圾收集器.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="678">
+                <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-05-22-JVM直接内存.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="372">
+                <caret line="79" column="14" lean-forward="true" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-08-分布式系统事务一致性解决方案.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-1148" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka(3)常见问题.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="238">
                 <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka(2)消费者分区策略.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="357">
+                <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -119,6 +172,7 @@
       <find>相信</find>
       <find>![</find>
       <find>|--</find>
+      <find>--|</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,11 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2018-10-08-CentOS7开放端口.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-04-12-Mysql的binlog.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-03-01-volatile总结.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-02-05-java中log总结.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-03-05-java中log总结.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-11-Mysql数据库引擎对比.md" />
         <option value="$PROJECT_DIR$/_posts/2017-01-01-Spring源码及应用解析(1).md" />
         <option value="$PROJECT_DIR$/_posts/2017-01-02-Spring中易混淆概念(一).md" />
@@ -173,11 +222,16 @@
         <option value="$PROJECT_DIR$/_posts/2018-05-20-kafka(2)消费者分区策略.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-20-kafka(1)基本操作.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-20-kafka(3)高可用实现.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-05-26-JVM的参数.md" />
         <option value="$PROJECT_DIR$/_posts/2017-08-10-redis的线程模型.md" />
         <option value="$PROJECT_DIR$/_posts/2017-05-26-类双亲加载机制.md" />
         <option value="$PROJECT_DIR$/_posts/2017-08-10-tomcat的线程模型.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-20-kafka(3)常见问题.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-05-26-JVM的参数.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-12-分库分表(1).md" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-12-分库分表(2)数据迁移方案.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-12-分库分表(1)策略以及中间件.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-12-分库分表(2)数据迁移方案.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-12-分库分表(2)数据迁移以及扩容.md" />
       </list>
     </option>
   </component>
@@ -188,8 +242,6 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="-96" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -289,7 +341,7 @@
       <workItem from="1555151676551" duration="41000" />
       <workItem from="1555151784662" duration="2100000" />
       <workItem from="1555388309637" duration="12119000" />
-      <workItem from="1555571105472" duration="5808000" />
+      <workItem from="1555571105472" duration="10256000" />
     </task>
     <task id="LOCAL-00001" summary="fix bug">
       <created>1552659823269</created>
@@ -487,17 +539,24 @@
       <option name="project" value="LOCAL" />
       <updated>1555423534235</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update TODO">
+      <created>1555598357993</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1555598357994</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103738000" />
+    <option name="totallyTimeSpent" value="108186000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-96" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19009584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19170243" />
       <window_info id="npm" order="1" side_tool="true" />
       <window_info id="Grunt " order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -572,20 +631,10 @@
     <MESSAGE value="update post" />
     <MESSAGE value="update zk" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update TODO" />
+    <option name="LAST_COMMIT_MESSAGE" value="update TODO" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-09-mybatis缓存.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-08-zookeeper配置ZNode的大小.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo中默认动态代理实现.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -602,14 +651,6 @@
           <first_editor relative-caret-position="2788">
             <caret line="164" column="27" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-08-分布式系统事务一致性解决方案.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -688,14 +729,6 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-46" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-12-分库分表(1).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -934,41 +967,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka(2)消费者分区策略.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="357">
-            <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-01-volatile总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="850">
             <caret line="50" selection-start-line="50" selection-end-line="50" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka(1)基本操作.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="357">
-            <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-22-JVM直接内存.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-434">
-            <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
           </first_editor>
           <second_editor />
         </state>
@@ -994,16 +997,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-JVM的参数.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="19" column="61" lean-forward="true" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-JVM的GC日志.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1024,11 +1017,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-类双亲加载机制.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka(3)常见问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="59">
-            <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <first_editor relative-caret-position="238">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka(2)消费者分区策略.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="357">
+            <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-08-分布式系统事务一致性解决方案.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1148" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-JVM垃圾收集器.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="678">
+            <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-22-JVM直接内存.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="372">
+            <caret line="79" column="14" lean-forward="true" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-JVM的参数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-类双亲加载机制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="280">
+            <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
@@ -1037,18 +1088,38 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-10-tomcat的线程模型.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <first_editor relative-caret-position="731">
+            <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka(3)常见问题.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-20-kafka(1)基本操作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-分库分表(1)策略以及中间件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-分库分表(2)数据迁移以及扩容.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="527">
+            <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
