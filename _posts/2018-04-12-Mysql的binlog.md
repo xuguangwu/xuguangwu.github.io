@@ -1,8 +1,9 @@
 ---
 title: mysql中的BinLog
 categories:
- - DB
-tags: mysql
+ - mysql
+tags: 
+ - mysql
 ---
 
 MySQL Server 有四种类型的日志
