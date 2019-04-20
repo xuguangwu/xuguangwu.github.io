@@ -1,8 +1,9 @@
 ---
 title: docker中nginx配置HTTPS证书
 categories:
- - DevOps
-tags: docker,CentOS,nginx,https
+ - linux
+tags:
+ - linux
 ---
 
  因小程序要求，所有请求必须是https协议，这里我手动配置了一次证书。
