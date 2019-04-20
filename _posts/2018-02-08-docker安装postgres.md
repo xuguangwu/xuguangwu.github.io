@@ -1,8 +1,8 @@
 ---
 title: docker安装postgres
 categories:
- - DevOps
-tags: DevOps
+ - linux
+tags: linux
 ---
 
 1. 运行容器

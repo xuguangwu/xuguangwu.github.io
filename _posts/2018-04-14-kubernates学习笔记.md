@@ -1,8 +1,8 @@
 ---
 title: kubernates学习笔记
 categories:
- - DevOps
-tags: DevOps
+ - linux
+tags: linux
 ---
 
 Kubernetes

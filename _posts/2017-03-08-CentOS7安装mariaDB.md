@@ -1,8 +1,8 @@
 ---
 title: CentOS7安装mariaDB
 categories:
- - DevOps
-tags: DevOps
+ - linux
+tags: linux
 ---
 
 centos7默认安装的是mariadb，所以安装命令与之前安装mysql略有不同。

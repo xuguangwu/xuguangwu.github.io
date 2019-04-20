@@ -1,8 +1,8 @@
 ---
 title: jenkins自动化构建docker镜像,kubernetes滚动升级部署
 categories:
- - DevOps
-tags: DevOps
+ - linux
+tags: linux
 ---
 
 在开发联调过程中，频繁打包到测服正服，再去手动部署是非常麻烦且浪费精力的事情。

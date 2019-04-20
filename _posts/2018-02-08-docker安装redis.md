@@ -1,8 +1,8 @@
 ---
 title: docker安装redis
 categories:
- - DevOps
-tags: DevOps
+ - linux
+tags: linux
 ---
 
 1. dockerhub上获取官方redis镜像

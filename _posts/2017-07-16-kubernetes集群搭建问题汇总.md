@@ -1,8 +1,8 @@
 ---
 title: kubernetes集群搭建问题汇总
 categories:
- - DevOps
-tags: DevOps
+ - linux
+tags: linux
 ---
 
 将我在搭建kubernetes集群过程中遇到的一些比较棘手的问题记录下来。

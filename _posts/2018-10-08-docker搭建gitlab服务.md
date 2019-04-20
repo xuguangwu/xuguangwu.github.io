@@ -1,8 +1,8 @@
 ---
 title: docker搭建gitlab服务
 categories:
- - DevOps
-tags: DevOps
+ - linux
+tags: linux
 ---
 
 39.108.218.254/Gccf,1234
