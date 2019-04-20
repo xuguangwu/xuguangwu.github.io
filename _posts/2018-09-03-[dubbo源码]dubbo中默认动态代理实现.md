@@ -1,7 +1,7 @@
 ---
 title: dubbo默认动态代理实现
 categories:
- - java
+ - Java
 tags: 
  - dubbo
 ---

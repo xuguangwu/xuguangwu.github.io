@@ -1,9 +1,9 @@
 ---
 title: IntegerCache
 categories:
- - java
+ - Java
 tags: 
- - java
+ - Java
 ---
 
 Integer中有个静态内部类IntegerCache，里面有个cache[],也就是Integer常量池，常量池的大小为一个字节（-128~127）。
