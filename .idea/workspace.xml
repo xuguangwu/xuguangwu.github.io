@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2018-12-10-Hystrix.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-08-CentOS7安装mariaDB.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-03-08-CentOS7安装mariaDB.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-06-26-jenkins持续化构建docker镜像，推送私服.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-06-26-jenkins持续化构建docker镜像，推送私服.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-16-kubernetes集群搭建问题汇总.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-07-16-kubernetes集群搭建问题汇总.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-08-10-安装配置rocketmq.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-08-10-安装配置rocketmq.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-08-docker安装postgres.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-08-docker安装postgres.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-08-docker安装redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-08-docker安装redis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-16-vi常用命令以及快捷键.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-16-vi常用命令以及快捷键.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-14-kubernates学习笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-14-kubernates学习笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-08-docker搭建gitlab服务.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-08-docker搭建gitlab服务.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,48 +30,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysql事务相关的日志.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="289">
-                <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysql的binlog.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="612">
-                <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysq读写分离原理.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="493">
-                <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-02-16-vi常用命令以及快捷键.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-10-Hystrix.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <first_editor relative-caret-position="170">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -140,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2018-12-08-log配置.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-05-历史搜索记录保存查询实现.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-20-kafka学习笔记(2).md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-12-mysql角色用户相关.md" />
@@ -191,6 +146,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-11-25-CentOS7搭建VPN.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-06-可视化算法网站分享.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-16-vi常用命令以及快捷键.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-10-Hystrix.md" />
       </list>
     </option>
   </component>
@@ -302,7 +258,7 @@
       <workItem from="1555151676551" duration="41000" />
       <workItem from="1555151784662" duration="2100000" />
       <workItem from="1555388309637" duration="12119000" />
-      <workItem from="1555571105472" duration="18177000" />
+      <workItem from="1555571105472" duration="20178000" />
     </task>
     <task id="LOCAL-00001" summary="fix bug">
       <created>1552659823269</created>
@@ -535,11 +491,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555743822938</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="update">
+      <created>1555744188248</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1555744188248</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116107000" />
+    <option name="totallyTimeSpent" value="118108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-96" width="1920" height="1080" extended-state="0" />
@@ -625,33 +588,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about/en.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1065,16 +1001,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-02-03-jmeter接口和压力测试.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-08-CentOS7开放端口.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1085,21 +1011,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysql事务相关的日志.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-16-vi常用命令以及快捷键.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysql的binlog.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="612">
-            <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <first_editor relative-caret-position="425">
+            <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
@@ -1115,11 +1031,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-02-16-vi常用命令以及快捷键.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysql的binlog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysql事务相关的日志.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="340">
+            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-01-tomcat读取加载war包外配置文件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="306">
             <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-03-jmeter接口和压力测试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-08-docker安装postgres.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-10-Hystrix.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>
