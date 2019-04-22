@@ -12,6 +12,9 @@ tags:
 可以直接在日志文件中配置被注入的参数，这样就对系统和日志id打印进行了解耦。
 其中当用logback日志的时候是需要调用MDC的方法，而log4j2则需要调用ThreadContext的方法。
 
+MDC[http://logback.qos.ch/manual/mdc.html]是为每个线程建立一个独立的存储空间，
+开发人员可以根据需要把信息存入其中。MDC使用ThreadLocalMap机制来存储信息，信息以key/value对的形式存储在Map中。
+
 消费端实现如下：
 ````java
 import org.apache.dubbo.common.Constants;
