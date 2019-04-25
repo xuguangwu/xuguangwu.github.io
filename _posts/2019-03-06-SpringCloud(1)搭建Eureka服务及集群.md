@@ -7,6 +7,8 @@ tags:
 ---
 
 我将使用maven来构建整个工程。一步一步搭建spring-cloud全家桶。
+完成该系列操作的项目地址：
+https://github.com/xuguangwu/spring-cloud-learning.git
 
 ## 单点配置
 parent-pom文件配置

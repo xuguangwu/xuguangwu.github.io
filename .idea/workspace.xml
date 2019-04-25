@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-07-SpringCloud(2)客户端负载均衡.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-08-SpringCloud(3)网关.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(4)hystrix相关.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(5)sleuth以及zipkin相关.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/in-post/springcloud/hystrix-dashboard.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(4)hystrix相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(4)hystrix相关.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(5)sleuth以及zipkin相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(5)sleuth以及zipkin相关.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,11 +37,15 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-655">
-                <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+              <first_editor relative-caret-position="462">
+                <caret line="121" column="8" lean-forward="true" selection-start-line="121" selection-start-column="8" selection-end-line="121" selection-end-column="8" />
                 <folding>
                   <element signature="imports" expanded="true" />
+                  <element signature="e#314#315#0" expanded="true" />
+                  <element signature="e#376#377#0" expanded="true" />
                   <element signature="imports" expanded="true" />
+                  <element signature="e#305#306#0" expanded="true" />
+                  <element signature="e#365#366#0" expanded="true" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -63,32 +66,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(4)hystrix相关.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="731">
+                <caret line="43" column="151" lean-forward="true" selection-start-line="43" selection-start-column="151" selection-end-line="43" selection-end-column="151" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-08-SpringCloud(3)网关.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="341">
+              <first_editor relative-caret-position="1836">
                 <caret line="120" column="44" selection-start-line="120" selection-start-column="44" selection-end-line="120" selection-end-column="44" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(5)sleuth以及zipkin相关.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1122">
+                <caret line="66" column="11" lean-forward="true" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
                 <folding>
-                  <element signature="e#122#123#0" expanded="true" />
-                  <element signature="e#150#151#0" expanded="true" />
-                  <element signature="e#648#649#0" expanded="true" />
-                  <element signature="e#762#763#0" expanded="true" />
-                  <element signature="e#873#874#0" expanded="true" />
-                  <element signature="e#928#929#0" expanded="true" />
-                  <element signature="e#1045#1046#0" expanded="true" />
-                  <element signature="e#1110#1111#0" expanded="true" />
-                  <element signature="e#1276#1277#0" expanded="true" />
-                  <element signature="e#1360#1361#0" expanded="true" />
-                  <element signature="e#122#123#0" expanded="true" />
-                  <element signature="e#150#151#0" expanded="true" />
-                  <element signature="e#648#649#0" expanded="true" />
-                  <element signature="e#762#763#0" expanded="true" />
-                  <element signature="e#873#874#0" expanded="true" />
-                  <element signature="e#928#929#0" expanded="true" />
-                  <element signature="e#1045#1046#0" expanded="true" />
-                  <element signature="e#1110#1111#0" expanded="true" />
-                  <element signature="e#1276#1277#0" expanded="true" />
-                  <element signature="e#1360#1361#0" expanded="true" />
+                  <element signature="imports" expanded="true" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -97,11 +105,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(4)hystrix相关.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-java中log总结.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="187">
-                <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <first_editor relative-caret-position="459">
+                <caret line="63" column="35" selection-start-line="63" selection-end-line="64" />
               </first_editor>
               <second_editor />
             </state>
@@ -109,27 +117,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(5)sleuth以及zipkin相关.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="289">
-                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-java中log总结.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="286">
-                <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/img/in-post/springcloud/hystrix-dashboard.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -186,7 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-05-27-分布式系统id生成策略.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-12-NIO学习.md" />
         <option value="$PROJECT_DIR$/_posts/2017-08-10-nio中Buffer相关.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-14-ThreadLocal学习.md" />
@@ -235,6 +223,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-05-SpringCloud(1)搭建Eureka服务及集群.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-07-SpringCloud(2)客户端负载均衡.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-08-SpringCloud(3)网关.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(4)hystrix相关.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(5)sleuth以及zipkin相关.md" />
       </list>
@@ -270,7 +259,32 @@
             <path>
               <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="in-post" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="in-post" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="in-post" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,11 +311,11 @@
       <recent name="$PROJECT_DIR$/postImages/sort" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/in-post/springcloud" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/img/in-post/mysql" />
       <recent name="$PROJECT_DIR$/img/in-post/io" />
       <recent name="$PROJECT_DIR$/img/in-post/log" />
-      <recent name="$PROJECT_DIR$/img/in-post/algorithms" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -348,7 +362,7 @@
       <workItem from="1555151676551" duration="41000" />
       <workItem from="1555151784662" duration="2100000" />
       <workItem from="1555388309637" duration="12119000" />
-      <workItem from="1555571105472" duration="43320000" />
+      <workItem from="1555571105472" duration="47121000" />
     </task>
     <task id="LOCAL-00001" summary="fix bug">
       <created>1552659823269</created>
@@ -616,17 +630,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556070562129</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="update">
+      <created>1556190189694</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1556190189694</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141250000" />
+    <option name="totallyTimeSpent" value="145051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-96" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2113951" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2593184" />
       <window_info id="npm" order="1" side_tool="true" />
       <window_info id="Grunt " order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -707,16 +728,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-11-Mysql数据库引擎对比.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-09-mybatis数据库字段加解密.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1152,19 +1163,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-655">
-            <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-            <folding>
-              <element signature="imports" expanded="true" />
-              <element signature="imports" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/img/in-post/springcloud/hystrix-dashboard.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-07-SpringCloud(2)客户端负载均衡.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -1176,32 +1176,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-java中log总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="63" column="35" selection-start-line="63" selection-end-line="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-08-SpringCloud(3)网关.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="341">
+          <first_editor relative-caret-position="1836">
             <caret line="120" column="44" selection-start-line="120" selection-start-column="44" selection-end-line="120" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="462">
+            <caret line="121" column="8" lean-forward="true" selection-start-line="121" selection-start-column="8" selection-end-line="121" selection-end-column="8" />
             <folding>
-              <element signature="e#122#123#0" expanded="true" />
-              <element signature="e#150#151#0" expanded="true" />
-              <element signature="e#648#649#0" expanded="true" />
-              <element signature="e#762#763#0" expanded="true" />
-              <element signature="e#873#874#0" expanded="true" />
-              <element signature="e#928#929#0" expanded="true" />
-              <element signature="e#1045#1046#0" expanded="true" />
-              <element signature="e#1110#1111#0" expanded="true" />
-              <element signature="e#1276#1277#0" expanded="true" />
-              <element signature="e#1360#1361#0" expanded="true" />
-              <element signature="e#122#123#0" expanded="true" />
-              <element signature="e#150#151#0" expanded="true" />
-              <element signature="e#648#649#0" expanded="true" />
-              <element signature="e#762#763#0" expanded="true" />
-              <element signature="e#873#874#0" expanded="true" />
-              <element signature="e#928#929#0" expanded="true" />
-              <element signature="e#1045#1046#0" expanded="true" />
-              <element signature="e#1110#1111#0" expanded="true" />
-              <element signature="e#1276#1277#0" expanded="true" />
-              <element signature="e#1360#1361#0" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="e#314#315#0" expanded="true" />
+              <element signature="e#376#377#0" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="e#305#306#0" expanded="true" />
+              <element signature="e#365#366#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
@@ -1210,9 +1216,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(4)hystrix相关.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="731">
+            <caret line="43" column="151" lean-forward="true" selection-start-line="43" selection-start-column="151" selection-end-line="43" selection-end-column="151" />
           </first_editor>
           <second_editor />
         </state>
@@ -1221,18 +1227,11 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(5)sleuth以及zipkin相关.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-java中log总结.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="286">
-            <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+          <first_editor relative-caret-position="1122">
+            <caret line="66" column="11" lean-forward="true" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
