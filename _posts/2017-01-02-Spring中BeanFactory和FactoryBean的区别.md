@@ -1,5 +1,5 @@
 ---
-title: Spring源码及应用解析
+title: Spring中BeanFactory和FactoryBean的区别
 categories:
  - Spring
 tags: 

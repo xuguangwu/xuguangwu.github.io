@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-12-18-Elasticsearch(1)基本操作.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-02-Spring中易混淆概念(一).md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-01-02-Spring中BeanFactory和FactoryBean的区别.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,75 +30,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo分布式日志追踪.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="253">
-                <caret line="94" column="1" selection-start-line="94" selection-end-line="94" selection-end-column="1" />
-                <folding>
-                  <element signature="imports" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-Elasticsearch(1)基本操作.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(5)sleuth以及zipkin相关.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-12-09-mybatis缓存.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-01-02-Spring中BeanFactory和FactoryBean的区别.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="425">
-                <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+              <first_editor relative-caret-position="337">
+                <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               </first_editor>
               <second_editor />
             </state>
@@ -106,44 +43,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-JDK动态代理.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-Spring源码及应用解析(1).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2159">
-                <caret line="127" selection-start-line="127" selection-end-line="127" />
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysq读写分离原理.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="493">
-                <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-java中log总结.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1071">
-                <caret line="63" column="35" selection-start-line="63" selection-end-line="64" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/in-post/springcloud/hystrix-dashboard.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -200,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-08-10-nio中Buffer相关.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-14-ThreadLocal学习.md" />
         <option value="$PROJECT_DIR$/_posts/2017-06-15-netty学习笔记.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-09-redis实现分布式锁.md" />
@@ -251,6 +158,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-09-SpringCloud(5)sleuth以及zipkin相关.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-18-Elasticsearch(1)基本操作.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-01-02-Spring中BeanFactory和FactoryBean的区别.md" />
       </list>
     </option>
   </component>
@@ -261,10 +169,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="-96" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -274,8 +180,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,35 +192,12 @@
               <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="in-post" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="in-post" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="in-post" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,7 +269,8 @@
       <workItem from="1555151784662" duration="2100000" />
       <workItem from="1555388309637" duration="12119000" />
       <workItem from="1555571105472" duration="47928000" />
-      <workItem from="1556242948556" duration="4974000" />
+      <workItem from="1556242948556" duration="6713000" />
+      <workItem from="1556350759781" duration="521000" />
     </task>
     <task id="LOCAL-00001" summary="fix bug">
       <created>1552659823269</created>
@@ -677,17 +559,30 @@
       <option name="project" value="LOCAL" />
       <updated>1556202830072</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="add post">
+      <created>1556258698102</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1556258698102</updated>
+    </task>
+    <task id="LOCAL-00043" summary="delete post">
+      <created>1556258717879</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1556258717879</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150832000" />
+    <option name="totallyTimeSpent" value="153092000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-96" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26198083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="npm" order="1" side_tool="true" />
       <window_info id="Grunt " order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -763,9 +658,10 @@
     <MESSAGE value="update zk" />
     <MESSAGE value="update TODO" />
     <MESSAGE value="分库分表总结" />
-    <MESSAGE value="add post" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="add post" />
+    <MESSAGE value="delete post" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete post" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-25-CentOS7搭建VPN.md">
@@ -896,16 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-10-Hystrix.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-08-log配置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1010,31 +896,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-02-Spring中易混淆概念(一).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="221">
-            <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-分库分表(2)数据迁移以及扩容.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="17">
             <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-Spring源码及应用解析(1).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
@@ -1180,6 +1046,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-10-Hystrix.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysq读写分离原理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="493">
+            <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-Elasticsearch(1)基本操作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo分布式日志追踪.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="253">
+            <caret line="94" column="1" selection-start-line="94" selection-end-line="94" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-09-mybatis缓存.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1193,18 +1110,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-12-JDK动态代理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2159">
+          <first_editor relative-caret-position="746">
             <caret line="127" selection-start-line="127" selection-end-line="127" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysq读写分离原理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="493">
-            <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
@@ -1213,7 +1120,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-java中log总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1071">
+          <first_editor relative-caret-position="746">
             <caret line="63" column="35" selection-start-line="63" selection-end-line="64" />
           </first_editor>
           <second_editor />
@@ -1223,44 +1130,21 @@
     <entry file="file://$PROJECT_DIR$/img/in-post/springcloud/hystrix-dashboard.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-06-SpringCloud(1)搭建Eureka服务及集群.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-Spring源码及应用解析(1).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-03-[dubbo源码]dubbo分布式日志追踪.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-02-Spring中BeanFactory和FactoryBean的区别.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="94" column="1" selection-start-line="94" selection-end-line="94" selection-end-column="1" />
-            <folding>
-              <element signature="imports" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-20-IntegerCache.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-Elasticsearch(1)基本操作.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="337">
+            <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           </first_editor>
           <second_editor />
         </state>
