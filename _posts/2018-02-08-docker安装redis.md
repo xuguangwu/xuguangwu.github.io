@@ -103,7 +103,8 @@ docker run -d --name redis -p 53792:6379 -v /mnt/test/data/redis:/data redis:5.0
 ````
 
 3. 批量删除key
-redis-cli -a Xl23L9bgPw keys "SUPPLIER_RANK_*" | xargs -i redis-cli -a Xl23L9bgPw del {}
+生产环境删除：redis-cli -a Xl23L9bgPw keys "SUPPLIER_RANK_*" | xargs -i redis-cli -a Xl23L9bgPw del {}
+测试环境删除：redis-cli -a xuguangwu keys "FACTORING_USER*" | xargs -i redis-cli -a xuguangwu del {}
 
 q:
 
