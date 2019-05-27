@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694dbe55-eff2-4448-9ca5-1a48317d2c99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-04-28-从深圳到杭州.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-05-25-The Blind Side观后感.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/in-post/memory/fallchat_family_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/in-post/memory/fallchat_family_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/in-post/memory/patech_badge.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/in-post/memory/patech_last_annual_party.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/in-post/memory/patech_last_drunk.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -77,12 +70,17 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/in-post/memory/patech_last_annual_party.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-25-The Blind Side观后感.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="306">
-                <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+                <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -101,12 +99,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-从深圳到杭州.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="272">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="442">
+                <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -226,8 +224,8 @@
         <option value="$PROJECT_DIR$/_posts/2018-04-12-Mysq锁.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-08-docker安装redis.md" />
         <option value="$PROJECT_DIR$/portfolio/index.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-04-28-从深圳到杭州.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-25-The Blind Side观后感.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-28-从深圳到杭州.md" />
       </list>
     </option>
   </component>
@@ -367,21 +365,7 @@
       <workItem from="1557119938844" duration="8318000" />
       <workItem from="1558354026322" duration="1019000" />
       <workItem from="1558528083623" duration="68000" />
-      <workItem from="1558875915765" duration="6071000" />
-    </task>
-    <task id="LOCAL-00001" summary="fix bug">
-      <created>1552659823269</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1552659823269</updated>
-    </task>
-    <task id="LOCAL-00002" summary="fix bug">
-      <created>1552700007511</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1552700007511</updated>
+      <workItem from="1558875915765" duration="6559000" />
     </task>
     <task id="LOCAL-00003" summary="fix bug">
       <created>1552700049404</created>
@@ -712,11 +696,25 @@
       <option name="project" value="LOCAL" />
       <updated>1558358831494</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="add diary">
+      <created>1558883609861</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1558883609862</updated>
+    </task>
+    <task id="LOCAL-00051" summary="add diary">
+      <created>1558883900712</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1558883900712</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174967000" />
+    <option name="totallyTimeSpent" value="175455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -803,7 +801,8 @@
     <MESSAGE value="delete post" />
     <MESSAGE value="add redis" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="add diary" />
+    <option name="LAST_COMMIT_MESSAGE" value="add diary" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/in-post/springcloud/hystrix-dashboard.png">
@@ -1198,16 +1197,7 @@
     <entry file="file://$PROJECT_DIR$/img/post-bg-ios9-web.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/in-post/memory/fallchat_family_2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/in-post/memory/fallchat_family_3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/in-post/memory/patech_last_annual_party.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/in-post/memory/patech_last_drunk.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
@@ -1230,21 +1220,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-从深圳到杭州.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-25-The Blind Side观后感.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="272">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-25-The Blind Side观后感.md">
+    <entry file="file://$PROJECT_DIR$/img/in-post/memory/fallchat_family_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/in-post/memory/patech_last_annual_party.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/in-post/memory/patech_last_drunk.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-从深圳到杭州.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="442">
+            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           </first_editor>
           <second_editor />
         </state>
