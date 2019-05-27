@@ -2,7 +2,8 @@
 title: docker安装redis
 categories:
  - linux
-tags: linux
+tags:
+ - linux
 ---
 
 1. dockerhub上获取官方redis镜像

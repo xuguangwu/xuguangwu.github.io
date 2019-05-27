@@ -10,6 +10,10 @@
       <change afterPath="$PROJECT_DIR$/img/in-post/memory/patech_last_annual_party.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/in-post/memory/patech_last_drunk.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-08-docker安装redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-08-docker安装redis.md" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,6 +41,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -107,17 +112,31 @@
             <state split_layout="FIRST">
               <first_editor relative-caret-position="272">
                 <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+=======
+        <entry file="file://$PROJECT_DIR$/_posts/2018-02-08-docker安装mysql.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="240">
+                <caret line="16" selection-start-line="16" selection-end-line="16" />
+>>>>>>> Stashed changes
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-09-redis实现分布式锁.md">
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-Elasticsearch(1)基本操作.md">
+>>>>>>> Stashed changes
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -162,8 +181,13 @@
       <find>pause</find>
       <find>批量删除</find>
       <find>patech</find>
+<<<<<<< Updated upstream
       <find>png</find>
       <find>in-post</find>
+=======
+      <find>docker</find>
+      <find>docker-ce</find>
+>>>>>>> Stashed changes
     </findStrings>
     <replaceStrings>
       <replace />
@@ -224,11 +248,23 @@
         <option value="$PROJECT_DIR$/_posts/2018-04-12-Mysq读写分离原理.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-10-区块链入门(1).md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-12-Mysq锁.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-02-08-docker安装redis.md" />
         <option value="$PROJECT_DIR$/portfolio/index.html" />
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/_posts/2019-04-28-从深圳到杭州.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-25-The Blind Side观后感.md" />
+=======
+        <option value="$PROJECT_DIR$/_posts/2018-02-08-docker安装redis.md" />
+>>>>>>> Stashed changes
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="~/.m2/repository" />
+        <option name="mavenHome" value="$USER_HOME$/maven" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven/conf/settings.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -260,6 +296,7 @@
             <path>
               <item name="xuguangwu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xuguangwu.github.io" type="462c0819:PsiDirectoryNode" />
+<<<<<<< Updated upstream
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -284,15 +321,20 @@
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="in-post" type="462c0819:PsiDirectoryNode" />
               <item name="memory" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+>>>>>>> Stashed changes
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -302,7 +344,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -365,9 +407,22 @@
       <workItem from="1556350759781" duration="1135000" />
       <workItem from="1556449372572" duration="5785000" />
       <workItem from="1557119938844" duration="8318000" />
+<<<<<<< Updated upstream
       <workItem from="1558354026322" duration="1019000" />
       <workItem from="1558528083623" duration="68000" />
       <workItem from="1558875915765" duration="6071000" />
+=======
+      <workItem from="1558354026322" duration="389000" />
+      <workItem from="1558427949542" duration="506000" />
+      <workItem from="1558429324774" duration="1232000" />
+      <workItem from="1558431677784" duration="310000" />
+      <workItem from="1558437753764" duration="137000" />
+      <workItem from="1558503724804" duration="491000" />
+      <workItem from="1558504248772" duration="240000" />
+      <workItem from="1558507707729" duration="11000" />
+      <workItem from="1558581492133" duration="1813000" />
+      <workItem from="1558614321096" duration="484000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="fix bug">
       <created>1552659823269</created>
@@ -716,19 +771,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="174967000" />
+=======
+    <option name="totallyTimeSpent" value="173422000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
+<<<<<<< Updated upstream
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26680973" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
+>>>>>>> Stashed changes
       <window_info id="npm" order="1" side_tool="true" />
       <window_info id="Grunt " order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
       <window_info id="Structure" order="5" weight="0.24973376" />
       <window_info id="Alibaba Cloud Explorer" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info id="JRebel" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -744,6 +808,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32970297" />
       <window_info anchor="bottom" id="Gradle View" order="14" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -752,13 +817,15 @@
       <window_info anchor="right" id="Database" order="5" weight="0.32960597" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23819743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21745351" />
       <window_info id="npm" order="1" side_tool="true" />
       <window_info id="Grunt " order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
       <window_info id="Structure" order="5" weight="0.24973376" />
       <window_info id="Alibaba Cloud Explorer" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info id="JRebel" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -774,6 +841,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32970297" />
       <window_info anchor="bottom" id="Gradle View" order="14" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -806,6 +874,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< Updated upstream
+=======
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-java中log总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="746">
+            <caret line="63" column="35" selection-start-line="63" selection-end-line="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/img/in-post/springcloud/hystrix-dashboard.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1059,16 +1140,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-08-分布式系统事务一致性解决方案.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-10-区块链入门(1).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1117,26 +1188,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="238">
           <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysql角色用户相关.md">
+=======
+        <state relative-caret-position="255">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysq读写分离原理.md">
+    <entry file="file://$PROJECT_DIR$/_includes/about/en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysq锁.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <first_editor relative-caret-position="750">
+            <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
@@ -1145,18 +1240,28 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysql的binlog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="765">
+          <first_editor relative-caret-position="675">
             <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysq锁.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysq读写分离原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="901">
-            <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-12-Mysql角色用户相关.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
@@ -1172,29 +1277,51 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+=======
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-26-jenkins持续化构建docker镜像，推送私服.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="244">
+            <caret line="45" column="2" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about/en.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-08-docker搭建gitlab服务.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="120">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-09-redis实现分布式锁.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-08-docker安装postgres.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          </first_editor>
+>>>>>>> Stashed changes
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/img/post-bg-ios9-web.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1211,10 +1338,23 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
+=======
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-08-分布式系统事务一致性解决方案.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-03-docker中nginx配置HTTPS证书.md">
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <first_editor relative-caret-position="375">
+            <caret line="117" column="49" lean-forward="true" selection-start-line="117" selection-start-column="49" selection-end-line="117" selection-end-column="49" />
           </first_editor>
           <second_editor />
         </state>
@@ -1233,18 +1373,41 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-从深圳到杭州.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
+<<<<<<< Updated upstream
           <first_editor relative-caret-position="272">
             <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+=======
+          <first_editor relative-caret-position="750">
+            <caret line="99" selection-start-line="99" selection-end-line="99" selection-end-column="120" />
+>>>>>>> Stashed changes
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-25-The Blind Side观后感.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="306">
             <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+=======
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-08-docker安装mysql.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-Elasticsearch(1)基本操作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+>>>>>>> Stashed changes
           </first_editor>
           <second_editor />
         </state>
