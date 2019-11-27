@@ -95,6 +95,42 @@ public class ProviderRpcTraceFilter implements Filter {
 }
 ````
 
+如果我们在有web页面的项目中，可能需要将traceId往上层抛，在返回前端的对象中，注入traceId，根据traceId快速定位日志。
+实现方式如下：
+````java
+@Configuration
+public class JacksonConfig {
+
+	@Bean
+	public SimpleModule simpleModule() {
+		SimpleModule module = new SimpleModule();
+		GenericJsonSerializer genericJsonSerializer=new GenericJsonSerializer();
+		//Result为自定义返前端的对象
+		module.addSerializer(Result.class, genericJsonSerializer);
+		return module;
+	}
+}
+
+public class GenericJsonSerializer<T> extends JsonSerializer<T> {
+	@Override
+	public void serialize(T result, JsonGenerator jsonGenerator, SerializerProvider serializerProvider) throws IOException {
+
+		String traceId = MDC.get("traceId");
+		if (traceId == null) {
+			traceId = "";
+		}
+		JSONObject jsonObject;
+		if (result == null) {
+			jsonObject = new JSONObject();
+		} else {
+			jsonObject = (JSONObject) JSON.toJSON(result);
+		}
+		jsonObject.put("traceId", traceId);
+		jsonGenerator.writeObject(jsonObject);
+	}
+}
+````
+
 在/src/main/resources/META-INF/dubbo/com.apache.dubbo.rpc.Filter文件中配置filter
 
 最后在日志配置中加上%X{traceId} 即可。
